@@ -1,0 +1,74 @@
+ls : listar archivos
+
+ls -lh: Listar archivos para ver su peso de una manera mas mas legible
+
+ls -al: Listar archivos ocultos
+
+pwd:Identificar la ruta en la que estamos en nuestro sistema
+
+cd: Movernos entre directorios
+
+mkdir: Crear un directorio
+
+cp: Copiar un archivo
+
+rm: borrar un archivo
+
+mv: mover un archivo
+
+rmdir: borrar un directorio
+
+clear/ctrl+ L : limpiar la terminar 
+
+rm -r: el borrado es recursivo básicamente recorrerá cada subcarperta/archivo y las irá borrando uno por uno.
+
+touch: crea un archivo, si no indicas la extension por defecto sera .txt
+
+explorer.exe . : para abrir la carpeta de documentos(?
+
+sudo: permisos especiales
+
+grep: búsquedas en textos
+
+clear: borrar el búfer
+
+man: manual, aprende más acerca de los comandos
+
+cat: listar el contenido de un archivo en la salida estándar
+
+-i: para no distinguir entre mayusculas
+
+locate: para localizar un archivo
+
+find: para ubicar archivos dentro de un directorio dado
+
+head: para ver las primeras diez líneas de un archivo
+(-n 15): para mostrar las primeras 15 líneas 
+
+tail: para ver las ultimas 10 líneas de un archivo
+
+diff: compara el contenido de dos archivos línea por línea
+
+chmod: para cambiar los permisos de lectura, escritura y ejecucion de archivos y directorios
+
+kill: finalizar la ejecución de un programa
+(sigterm)(sigkill)
+
+ping: para verificar tu estado de conectividad a un servidor
+
+wget: para descargar archivos de internet (con el enlace de descarga)
+
+top: lista de los procesos en ejecución y la cantidad de cpu que utiliza cada proceso
+
+history: revisar los comandos hechos anteriormente
+
+echo: para mover datos a un archivo
+(ejemplo: si deseas agregar el texto «Hola, mi nombre es John» en un archivo llamado nombre.txt, debes escribir echo Hola, mi nombre es John >> nombre.txt)
+
+zip unzip: para comprimir y descomprimir archivos zip
+
+hostname (-l): mostrará la ip de tu red
+
+ctr+A: te mueve al inicio de la línea
+
+ctrlE: te mueve al final de la línea 
