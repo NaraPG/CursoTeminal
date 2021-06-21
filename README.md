@@ -4,4 +4,4 @@
 ### Documentos
 - - Comandos.txt
 
-- Creado por Nara Gamez
+- Creado por Nara Peña Gamez
