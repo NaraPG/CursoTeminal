@@ -7,6 +7,9 @@
 ## How it looks like
 <img src="https://user-images.githubusercontent.com/79294934/124065991-75b9db80-d9fd-11eb-8ccf-172e878a9581.png" > </img>
 
+## This repository
+> In this course we learn how to implement commands in the CLI testing them in our projects
+
 ## Examples
 > The following are some of the basic CLI (Command Line Interface) commands 
 > - **`cd`:** change directory
